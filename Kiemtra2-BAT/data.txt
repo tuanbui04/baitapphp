@@ -1,0 +1,21 @@
+Danh sách các khóa học:
+ID: 1
+Title: Laravel Programming
+Description: This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+Image URL: images/laravel.png
+
+ID: 2
+Title: .NET Programming
+Description: This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+Image URL: images/dot-net.png
+
+ID: 3
+Title: Spring Boot Programming
+Description: This is a longer card with supporting text below as a natural lead-in to additional content.
+Image URL: images/spring-boot.png
+
+ID: 4
+Title: Angular Programming
+Description: This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+Image URL: images/angular.png
+
